@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 
 public class Ex1 {
-    static String fileName="input4.txt";
+    static String fileName="input.txt";
 
     public static void main(String[] args) {
         play(fileName);
